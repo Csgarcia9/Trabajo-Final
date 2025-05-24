@@ -1,6 +1,6 @@
 const menu = document.getElementById("menuProyectos");
 
-fetch("./bd.json")
+fetch("../bd.json")
     .then((response) => response.json())
     .then((data) => {
         data.proyectos.map((proyecto) => {
