@@ -1,0 +1,44 @@
+{
+    "proyectos": [
+      {
+        "url": "https://csgarcia9.github.io/Graficos/",
+        "texto": "Gráficos"
+      },
+      {
+        "url": "https://csgarcia9.github.io/QRgenerator/",
+        "texto": "QR Generator"
+      },
+      {
+        "url": "https://csgarcia9.github.io/validarcedula/",
+        "texto": "Validador Cédula"
+      },
+      {
+        "url": "https://csgarcia9.github.io/Banco/",
+        "texto": "Banco"
+      },
+      {
+        "url": "https://csgarcia9.github.io/cesdev.github.io/",
+        "texto": "Biografia"
+      },
+      {
+        "url": "https://csgarcia9.github.io/Formulario/",
+        "texto": "Formulario"
+      },
+
+      {
+        "url": "https://csgarcia9.github.io/Menu/",
+        "texto": "Menu"
+      },
+
+      {
+        "url": "https://csgarcia9.github.io/ConsumirServicioWeb/",
+        "texto": "Consumir Servicio Web"
+      },
+
+      {
+        "url": "https://acceso-db.onrender.com/",
+        "texto": "Acceso a Base de Datos"
+      }
+
+    ]
+  }

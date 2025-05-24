@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to right, #ced4ce, #a1a39f, #6d6d6b);
+}
+
+.navbar{
+    
+    padding: 10px 20px;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.3);
+    
+}
+.dropdown-menu{
+    background: transparent;
+    border: 1px solid #aaa7a7;
+    backdrop-filter: blur(5px);
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%; 
+    padding: 10px 0;
+    
+}
+
+footer span{
+    display: block;
+    text-align: center;
+}
